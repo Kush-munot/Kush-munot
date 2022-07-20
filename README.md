@@ -81,3 +81,5 @@
     <img src="https://komarev.com/ghpvc/?username=Kush-munot">
 </a>
 <a href="https://github.com/Kush-munot?tab=followers"><img src="https://img.shields.io/github/followers/Kush-munot?label=Followers&style=social" alt="GitHub Badge"></a>
+
+<a href="https://app.daily.dev/Kush_Munot"><img src="https://api.daily.dev/devcards/f365ed9a5ca342fe82fd9521a7878890.png?r=via" width="400" alt="Kush Munot's Dev Card"/></a>
