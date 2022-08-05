@@ -39,7 +39,17 @@
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
     <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="50px" height="50px" /> </a>
     <a  target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original-wordmark.svg" alt="GCloud" width="50px" height="50px"/> </a> 
-    
+    <a  target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="50px" height="40px"/> </a>
+    <a  target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="Java" width="50px" height="40px"/> </a>
+    <a  target="_blank"> 
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg"       alt="Java" width="50px" height="40px"/> </a>
+    <a  target="_blank"> 
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original-wordmark.svg" alt="kaggle" width="50px" height="40px"/> </a>
+    <a  target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" alt="Java" width="50px" height="40px"/> </a>
+    <a  target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" alt="Java" width="50px" height="40px"/> </a>
+    <a  target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" alt="Java" width="50px" height="40px"/> </a>
+    <a  target="_blank">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="Java" width="50px" height="40px"/> </a>
     
 </p>
 <br/>
