@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://csb-4oro5.netlify.app/)**
 
-- 📫 How to reach me **munot.kgm@gmail.com**
+- 📫 How out to reach me **munot.kgm@gmail.com**
 
 - ⚡ Fun fact **I play games and go to the GYM very often.**
 
@@ -62,12 +62,24 @@
 <br/>
 <br/>
 
+![](./profile-3d-contrib/profile-night-rainbow.svg)
+
+<br/>
+<br/>
+
 <a href="https://github.com/Kush-munot/github-readme-activity-graph"><img alt="Kush Munot's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Kush-munot&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
 
 ## Connect with me:
+![munot.kgm@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+
+[<img alt="Instagram" src="https://img.shields.io/badge/kushjain.17-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />](https://www.instagram.com/kushjain.17/)
+
+[<img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/kush-munot/)
+
+[<img alt="Github" src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" />](https://github.com/Kush-munot)
 <p align="center">
 
 <a href = "https://www.linkedin.com/in/kush-munot/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
