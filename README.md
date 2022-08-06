@@ -64,6 +64,7 @@
 
 <!--START_SECTION:activity-->
 
+<!--END_SECTION:activity-->
   <br/>
     <a href="https://github.com/Kush-munot/github-readme-stats"><img alt="Kush Munot's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Kush-munot&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/Kush-munot/github-readme-stats"><img alt="Kush Munot's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kush-munot&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
@@ -83,7 +84,7 @@
 
 <br/>
 <br/>
-<!--END_SECTION:activity-->
+
 ## Connect with me:
 ![munot.kgm@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)  [<img alt="Instagram" src="https://img.shields.io/badge/kushjain.17-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />](https://www.instagram.com/kushjain.17/) [<img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/kush-munot/) [<img alt="Github" src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" />](https://github.com/Kush-munot)
 
