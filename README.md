@@ -64,8 +64,8 @@
 
 <!--START_SECTION:activity-->
 
-  <br/>
-    <a href="https://github.com/Kush-munot/github-readme-stats"><img alt="Kush Munot's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Kush-munot&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+1. 💪 Opened PR [#281](https://github.com/SauravMukherjee44/CodeIN-Community-Website/pull/281) in [SauravMukherjee44/CodeIN-Community-Website](https://github.com/SauravMukherjee44/CodeIN-Community-Website)
+2. 🗣 Commented on [#202](https://github.com/SauravMukherjee44/CodeIN-Community-Website/issues/202) in [SauravMukherjee44/CodeIN-Community-Website](https://github.com/SauravMukherjee44/CodeIN-Community-Website)
   <a href="https://github.com/Kush-munot/github-readme-stats"><img alt="Kush Munot's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kush-munot&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
