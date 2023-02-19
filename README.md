@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hi , I'm Kush!&height=100&section=header"/>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hi , I'm Kush!&height=100&section=header"/>
+
 
 <h3 align="center">I'm a passionate Full Stack Developer from India.</h3>
 
