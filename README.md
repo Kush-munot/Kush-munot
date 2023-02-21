@@ -69,10 +69,10 @@
     <p align="center">
 
   <a href="https://github.com/Kush-munot/github-readme-stats"><img alt="Kush Munot's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kush-munot&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-    </p>
+    
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
+    </p>
 
 <br/>
 <br/>
