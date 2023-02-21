@@ -55,10 +55,12 @@
 
 ## 📊 My Github Stats
 
+
+
   <br/>
     <p align="center">
     <a href="https://github.com/Kush-munot/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Kush Munot's streak" src="https://github-readme-stats.vercel.app/api?username=Kush-munot&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Kush Munot's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Kush-munot&theme=dark&hide_border=false"/>
     </a>
     </p>
     <a href="https://github.com/Kush-munot/github-readme-stats"><img alt="Kush Munot's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Kush-munot&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
