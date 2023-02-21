@@ -60,19 +60,18 @@
   <br/>
     <p align="center">
     <a href="https://github.com/Kush-munot/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Kush Munot's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Kush-munot&theme=dark&hide_border=false"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Kush Munot's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Kush-munot&theme=react&hide_border=false"/>
     </a>
     </p>
     <p align="center">
     <a href="https://github.com/Kush-munot/github-readme-stats"><img alt="Kush Munot's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Kush-munot&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
     </p>
-    <p align="center">
-
-  <a href="https://github.com/Kush-munot/github-readme-stats"><img alt="Kush Munot's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kush-munot&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
     
-  <br/>
+<p align="center">
+  <a href="https://github.com/Kush-munot/github-readme-stats"><img alt="Kush Munot's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kush-munot&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+</p>
+
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-    </p>
 
 <br/>
 <br/>
