@@ -15,6 +15,7 @@
 - 📫 How out to reach me **munot.kgm@gmail.com**
 
 - ⚡ Fun fact **I play games and go to the GYM very often.**
+- 🚀 I am also **President of [Geeks For Geeks RCOEM Chapter](https://gfgrcoem.netlify.app/About)**
 
 <!-- 
 ## 🚀 Languages and Tools:
