@@ -77,7 +77,7 @@
 <br/>
 <br/>
 
-<a href="https://github.com/Kush-munot/github-readme-activity-graph"><img alt="Kush Munot's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=Kush-munot&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/Kush-munot/github-readme-activity-graph"><img alt="Kush Munot's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Kush-munot&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
