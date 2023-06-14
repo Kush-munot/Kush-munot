@@ -61,7 +61,7 @@
   <br/>
     <p align="center">
     <a href="https://github.com/Kush-munot/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Kush Munot's streak" src="https://github-readme-streak-stats-sigma-five.vercel.com/?user=Kush-munot&theme=react&hide_border=false"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Kush Munot's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Kush-munot&theme=react&hide_border=false"/>
     </a>
     </p>
     <p align="center">
