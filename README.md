@@ -60,7 +60,7 @@
 
   <br/>
     <p align="center">
-    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Kush-munot" alt="GitHub Streak" /></a>
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Kush-munot&theme=dark" alt="GitHub Streak" /></a>
     </p>
     <p align="center">
     <a href="https://github.com/Kush-munot/github-readme-stats"><img alt="Kush Munot's Github Stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Kush-munot&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
