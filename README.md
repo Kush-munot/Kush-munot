@@ -96,6 +96,18 @@
 ![munot.kgm@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)  [<img alt="Instagram" src="https://img.shields.io/badge/kushjain.17-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />](https://www.instagram.com/kushjain.17/) [<img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/kush-munot/) [<img alt="Github" src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" />](https://github.com/Kush-munot)
 
 
+## 📚 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- [Resume Parsing: Insights and Steps to Create Your Own Parser](https://dev.to/jhamadhav/resume-parsing-insights-and-steps-to-create-your-own-parser-25f)
+- [Firebase Bootcamp: Hex-Clicker](https://dev.to/jhamadhav/firebase-bootcamp-hex-clicker-1nk3)
+- [Syncing tabs via service worker](https://dev.to/jhamadhav/syncing-tabs-via-service-worker-ep7)
+<!-- BLOG-POST-LIST:END -->
+
+---
+<!-- QUOTE:START -->
+<p align="center"><br><i>The trick is in what one emphasizes. We either make ourselves miserable, or we make ourselves happy. The amount of work is the same.</i><br><i>– Carlos Castaneda.</i><br></p>
+<!-- QUOTE:END -->
 
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
