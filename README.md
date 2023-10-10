@@ -99,9 +99,6 @@
 ## 📚 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Resume Parsing: Insights and Steps to Create Your Own Parser](https://dev.to/jhamadhav/resume-parsing-insights-and-steps-to-create-your-own-parser-25f)
-- [Firebase Bootcamp: Hex-Clicker](https://dev.to/jhamadhav/firebase-bootcamp-hex-clicker-1nk3)
-- [Syncing tabs via service worker](https://dev.to/jhamadhav/syncing-tabs-via-service-worker-ep7)
 <!-- BLOG-POST-LIST:END -->
 
 ---
