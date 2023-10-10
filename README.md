@@ -103,7 +103,7 @@
 
 ---
 <!-- QUOTE:START -->
-<p align="center"><br><i>Absence makes the heart grow fonder.</i><br><i>– Thomas Haynes Bayly.</i><br></p>
+<p align="center"><br><i>An ounce of emotion is equal to a ton of facts.</i><br><i>– John Junor.</i><br></p>
 <!-- QUOTE:END -->
 
 ## ❤ Views and Followers
