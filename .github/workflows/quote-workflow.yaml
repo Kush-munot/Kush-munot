@@ -15,11 +15,11 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - name: pull script to get quote
-        uses: jhamadhav/quote-workflow@main
+        uses: Kush-munot/quote-workflow@main
       - name: Commit and push changes
         run: |
-          git config --global user.name "jhamadhav"
-          git config --global user.email "contact@gmail.com"
+          git config --global user.name "Kush-munot"
+          git config --global user.email "munot.kgm@gmail.com"
           git add -A
           git commit -m "New Quote added"
           git push
