@@ -99,6 +99,7 @@
 ## 📚 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Enhancing SEO for React Apps: A Comprehensive Guide](https://dev.to/kushmunot/enhancing-seo-for-react-apps-a-comprehensive-guide-1nfj)
 <!-- BLOG-POST-LIST:END -->
 
 ---
