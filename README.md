@@ -60,11 +60,14 @@
 
   <br/>
     <p align="center">
-    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Kush-munot&theme=dark" alt="GitHub Streak" /></a>
-    </p>
-    <p align="center">
-    <a href="https://github.com/Kush-munot/github-readme-stats"><img alt="Kush Munot's Github Stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Kush-munot&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-    </p>
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=Kush-munot&theme=dark" alt="GitHub Streak">
+  </a>
+  <a href="https://github.com/Kush-munot/github-readme-stats">
+    <img alt="Kush Munot's Github Stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Kush-munot&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117">
+  </a>
+</p>
+
     
 <p align="center">
   <a href="https://github.com/Kush-munot/github-readme-stats"><img alt="Kush Munot's Top Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Kush-munot&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
@@ -83,10 +86,27 @@
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
 <br/>
-<br/>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Kush-munot&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
+<p align="center">
+  <a href="http://localhost:3000?utm_source=widgets&utm_campaign=Kush-munot">
+    <img src="https://stats.quine.sh/Kush-munot/github?theme=dark" alt="Kush-munot's GitHub Stats">
+  </a>
+  <a href="http://localhost:3000?utm_source=widgets&utm_campaign=Kush-munot">
+    <img src="https://stats.quine.sh/Kush-munot/dependencies?theme=dark" alt="Kush-munot's GitHub Dependencies">
+  </a>
+</p>
+
+<p align="center">
+  <a href="http://localhost:3000?utm_source=widgets&utm_campaign=Kush-munot">
+    <img src="https://stats.quine.sh/Kush-munot/topics-over-time?theme=dark" alt="Kush-munot's GitHub Topics Over Time">
+  </a>
+  <a href="http://localhost:3000?utm_source=widgets&utm_campaign=Kush-munot">
+    <img src="https://stats.quine.sh/Kush-munot/languages-over-time?theme=dark" alt="Kush-munot's GitHub Languages Over Time">
+  </a>
+</p>
+
+
+
 
 ## Hacktoberfest 2022 Badges 
 [![@munotkg's Holopin board](https://holopin.me/munotkg)](https://holopin.io/@munotkg)
@@ -102,10 +122,6 @@
 - [Enhancing SEO for React Apps: A Comprehensive Guide](https://dev.to/kushmunot/enhancing-seo-for-react-apps-a-comprehensive-guide-1nfj)
 <!-- BLOG-POST-LIST:END -->
 
----
-<!-- QUOTE:START -->
-<p align="center"><br><i>An ounce of emotion is equal to a ton of facts.</i><br><i>– John Junor.</i><br></p>
-<!-- QUOTE:END -->
 
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
